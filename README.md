@@ -57,6 +57,10 @@ At each connection, the system temporarily saves the ip address of the client an
 
 - [Sanix-darker](https://github.com/sanix-darker)
 
+## Modded
+
+- [Roni Dian Patisa](https://github.com/ronidianpatisa)
+
 ## LICENSE
 
 [MIT License](https://github.com/Sanix-Darker/AntiDDOS-system/blob/master/LICENSE)

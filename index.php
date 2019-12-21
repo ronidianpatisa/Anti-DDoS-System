@@ -17,17 +17,17 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="css/flottant.css">
-		<title>Example Webpage</title>
+		<title>Sample Website</title>
 	</head>
 	<body>
 		<center>
 			<div class="container">
-				<a href="https://github.com/Sanix-Darker">
-					<img src="https://avatars1.githubusercontent.com/u/22576758?s=400&v=4" style="border-radius: 100%;width:200px;"><br>
-					Sanix Darker Github
+				<a href="https://github.com/ronidianpatisa">
+					<img src="https://raw.githubusercontent.com/ronidianpatisa/Anti-DDoS-System/master/img/icone.png" style="border-radius: 100%;width:200px;"><br>
+					Roni Dian Patisa
 				</a>
-				<h1>Example Webpage</h1>
-				<p>This web Site is protected by AntiDDOS-System PHP.</p>
+				<h1>Testing AntiDDoS</h1>
+				<p>This Web Site is Protected by AntiDDOS-System.</p>
 			</div>
 		</center>
 	</body>
