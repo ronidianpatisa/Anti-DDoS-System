@@ -2,7 +2,7 @@
 /**
  * AntiDDOS System
  * FILE: index.php
- * By Sanix Darker
+ * By Roni Dian Patisa
  */
 
 if(!isset($_SESSION)){
