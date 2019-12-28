@@ -92,7 +92,7 @@ if(isset($_SESSION['standby'])){
 		<div class="loading__dots__dot"></div>
 		<div class="loading__dots__dot"></div>
 		</div>
-		<div class="loading__msg"><center><b style="font-size: 22px;"><a href="https://github.com/Sanix-Darker/AntiDDOS-system" target="_blank" style="color: black;">ANTIDDOS</a> is checking....</b><br><br>Hi, don't worry, this is a simple security verfication, you will see this only one time;<br> your webpage will show up soon!<br> This security wall was build by <a href="https://github.com/sanix-darker" target="_blank">Sanix darker</a> </center></div>
+		<div class="loading__msg"><center><b style="font-size: 22px;"><a href="https://github.com/ronidianpatisa/Anti-DDoS-System" target="_blank" style="color: black;">ANTIDDOS</a> is checking....</b><br><br>Hi, don't worry, this is a simple security verfication, you will see this only one time;<br> your webpage will show up soon!<br> This security wall was build by <a href="https://github.com/ronidianpatisa" target="_blank">Roni Dian Patisa</a> </center></div>
 	</div>
 
 <?php exit();
